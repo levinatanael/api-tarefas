@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Tarefa.API.Solution/.vs
+/Tarefa.API.Solution/Tarefa.API/bin/Debug/net8.0
+/Tarefa.API.Solution/Tarefa.API/obj
+/Tarefa.API.Solution/Tarefa.Application/bin/Debug/net8.0
+/Tarefa.API.Solution/Tarefa.Application/obj
+/Tarefa.API.Solution/Tarefa.Application.Tests/bin/Debug/net8.0
+/Tarefa.API.Solution/Tarefa.Application.Tests/obj
+/Tarefa.API.Solution/Tarefa.Domain/bin/Debug/net8.0
+/Tarefa.API.Solution/Tarefa.Domain/obj
+/Tarefa.API.Solution/Tarefa.Domain.Tests/bin/Debug/net8.0
+/Tarefa.API.Solution/Tarefa.Domain.Tests/obj
+/Tarefa.API.Solution/Tarefa.Infrastructure/bin/Debug/net8.0
+/Tarefa.API.Solution/Tarefa.Infrastructure/obj/Debug/net8.0
+/Tarefa.API.Solution/Tarefa.Infrastructure/obj
